@@ -1,2 +1,3 @@
 # odin-recipes
-Learning how to use Git and building a recipe website!
+Learning how to use Git and building a recipe website! 02/26/2023
+Moving onto CSS foundations lessons - learned to "fork" a repo through git hub (use git clone), as well as creating lists: both ordered (ol) and unordered (ul). To fill the list within either list style, I use (li). Last, but not least, turned VSCode to a more appealing application to work with. Feels like a DAW within the music world. Also changed the terminal into iterm2 with powerlevel10k for a much more beautiful workspace. So far, been feeling great with coding! 03/01/2023
