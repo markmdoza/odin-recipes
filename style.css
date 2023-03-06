@@ -1,7 +1,16 @@
 h1 {
     text-align: center;
+    color: pink;
+    background-color: black;
 }
 
-ul li a {
-    
+ul {
+    display: inline;
+    font-size: 20px ;
 }
+
+ a {
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
