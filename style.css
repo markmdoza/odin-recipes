@@ -2,17 +2,19 @@ h1 {
     text-align: center;
     color: pink;
     background-color: black;
+    padding: 1em;
 }
 
-ul {
-    display: flex;
-    font-size: 20px;
-    list-style: none;
-}
+.links-list a {
+    background-color: rgb(179,57,81);
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 2em;
+    display: block;
+    margin: 10px
+  }
 
- a {
-    clear: both;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
- }
+.links-list a:hover {
+    background-color: rgb(66, 28, 40);
+    color: #fff;
+  }
