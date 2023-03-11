@@ -1,20 +1,35 @@
+html body {
+  background-color: beige;
+}
+
 h1 {
-    text-align: center;
-    color: pink;
-    background-color: black;
-    padding: 1em;
+  text-align: center;
+  font-size: 50px;
+  color: pink;
+  background-color: blanchedalmond;
+  padding: 1em;
+  margin: 1px;
 }
 
 .links-list a {
-    background-color: rgb(179,57,81);
-    color: #fff;
-    text-decoration: none;
-    padding: 1em 2em;
-    display: block;
-    margin: 10px
-  }
+  background-color: rgb(179, 57, 81);
+  color: #fff;
+  text-decoration: none;
+  padding: 1em 2em;
+  display: block;
+  margin: 10px;
+}
 
 .links-list a:hover {
-    background-color: rgb(66, 28, 40);
-    color: #fff;
-  }
+  background-color: rgb(66, 28, 40);
+  color: #fff;
+}
+
+div {
+  border: 5px solid #ffcc5c;
+  display: flex;
+}
+
+.container > li {
+  flex: 1;
+}
